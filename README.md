@@ -36,6 +36,8 @@ https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfk
 
 3. Sorting the column "Created At" is wrong. Attempt to convert the DATE STRING to JavaScript Date format fails.
 
+4. User input validation is incomplete.
+
 # Notes
 
 1. Rows of incomming data table are clickable. Clicking a row leads the user to the job offer page with detailed infrmation.
